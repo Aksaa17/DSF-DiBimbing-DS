@@ -8,3 +8,5 @@ The breast cancer classification project using the Breast Cancer Wisconsin (Diag
 1. Building a breast tumors classification model using the Decision Tree Algorithm
 2. Analyze tumor characteristics with good accuracy
 3. Visualize data using the Decision Tree Algorithm with the model that has been created and with good accuracy
+## Conclusion
+The Breast Cancer Classification project using the Breast Cancer Wisconsin (Diagnostic) Dataset shows that Machine Learning technology can make a major contribution to the medical world, especially in helping the process of diagnosing diseases quickly and accurately. By utilizing Machine Learning Algorithms such as Decision Tree, this project is able to predict whether a tumor is benign or malignant based on the physical characteristics of the tumor, such as size, texture, and cell symmetry.
